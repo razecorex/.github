@@ -2,6 +2,5 @@
 
 ### About us
 
-**It's my organization, we help other peoples to learn somethings or creating software to take your life easier. <br>
-We create any software that makes life easier for people or automates the processes they do not want to do themselves.**
-
+**It is an organisation that is able to help other people learn something or create software to make your life easier. <br>
+We create any software that makes people's lives easier or automates processes they don't want to do themselves.**
